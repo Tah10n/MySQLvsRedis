@@ -1,0 +1,36 @@
+
+s
+java:S3457A"Q%n should be used in place of \n to produce the platform-specific line separator.(ÎÆûïüÿÿÿÿ8£³•†¶1
+L	java:S106A"+Replace this use of System.out by a logger.(ÎÆûïüÿÿÿÿ8¤³•†¶1
+s
+java:S3457B"Q%n should be used in place of \n to produce the platform-specific line separator.(Çœ¾ƒüÿÿÿÿ8¤³•†¶1
+L	java:S106B"+Replace this use of System.out by a logger.(Çœ¾ƒüÿÿÿÿ8¤³•†¶1
+_
+java:S1117H"BRename "sessionFactory" which hides the field declared at line 30.(îµê–8Öà†¶1
+m
+java:S3252J"KUse static access with "org.hibernate.cfg.AvailableSettings" for "DIALECT".(Ú–Êîüÿÿÿÿ8Øà†¶1
+g
+java:S3252K"JUse static access with "org.hibernate.cfg.AvailableSettings" for "DRIVER".(ŠåÔâ8Øà†¶1
+i
+java:S3252L"GUse static access with "org.hibernate.cfg.AvailableSettings" for "URL".(ˆ¡ªûÿÿÿÿ8Ùà†¶1
+j
+java:S3252M"HUse static access with "org.hibernate.cfg.AvailableSettings" for "USER".(Ì¦ˆ÷øÿÿÿÿ8Ùà†¶1
+j
+java:S3252N"HUse static access with "org.hibernate.cfg.AvailableSettings" for "PASS".(Óß ´şÿÿÿÿ8Ùà†¶1
+ƒ
+java:S3252O"aUse static access with "org.hibernate.cfg.AvailableSettings" for "CURRENT_SESSION_CONTEXT_CLASS".(Ä…×¢úÿÿÿÿ8Ùà†¶1
+m
+java:S3252P"PUse static access with "org.hibernate.cfg.AvailableSettings" for "HBM2DDL_AUTO".(µù¦©8Úà†¶1
+t
+java:S3252Q"XUse static access with "org.hibernate.cfg.AvailableSettings" for "STATEMENT_BATCH_SIZE".(‹ßa8Úà†¶1
+N
+java:S1481h"1Remove this unused "preparedData" local variable.(½¯Ëà8åà†¶1
+P
+java:S1481j".Remove this unused "countries" local variable.(º¨½èùÿÿÿÿ8æà†¶1
+p
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(œçÖß8èà†¶1
+]
+java:S1117”"?Rename "redisClient" which hides the field declared at line 31.(Ñ¶œ£8ìà†¶1
+H	java:S106–"+Replace this use of System.out by a logger.(ÙœĞ8íà†¶1
+Q
+java:S1481¼".Remove this unused "languages" local variable.(«Ö£•ıÿÿÿÿ8Êå†¶1
